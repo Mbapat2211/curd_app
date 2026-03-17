@@ -1,9 +1,11 @@
 import streamlit as st
+import session_keys as sk
 import pages as pg
 import db_init
 
 def main():
     db_init.init_db()
+    sk.init_session_keys()
     CREATE, READ, UPDATE, DELETE = pg.register_pages()
 
     if st.session_state["Main"]:
