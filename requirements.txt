@@ -9,7 +9,6 @@ certifi==2020.6.20
 chardet==4.0.0
 charset-normalizer==3.4.5
 click==8.0.3
-cloud-init==23.1.2
 colorama==0.4.4
 command-not-found==0.3
 configobj==5.0.6
@@ -17,7 +16,6 @@ constantly==15.1.0
 cryptography==3.4.8
 dbus-python==1.2.18
 distro==1.7.0
-distro-info===1.1build1
 dnspython==2.8.0
 email-validator==2.3.0
 gitdb==4.0.12
