@@ -31,3 +31,7 @@ Streamlit is primarily designed for simple dashboards, particularly in machine l
 
 ### What did you learn while doing this project?
 This project reinforced the importance of choosing the right tool based on constraints, as selecting a familiar tech stack allowed me to focus on delivering core features within the limited time frame. I also gained practical experience thinking about performance and efficiency when handling 10,000+ records, and was reminded that real-world applications require more thought than just the happy path — with input validation, data sanitisation, and state management adding complexity that is not always obvious at the outset. Finally, I came to appreciate how much can be achieved within a short time box when you scope deliberately and prioritise core requirements before considering bonus features.
+
+## Live Demo
+
+The application is hosted and accessible at: https://curdapp-sfkdpf59cbqz3ahpt8woxl.streamlit.app/
